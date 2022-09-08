@@ -1,7 +1,5 @@
 {
-    "authors": [
-        {"id": 1, "author": "name", "age": "XX", "aka": "nickname"}
-    ],
+    "authors": [],
     "books": [],
     "categories": [],
     "publishers": []
